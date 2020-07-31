@@ -3,6 +3,7 @@ G04 BottomPaste.gbr*
 %MOIN*%
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.Part,Single*
+%ADD33R,0.031496X0.017717*%
 %FSLAX26Y26*%
 G04*
 G70*
@@ -11,4 +12,9 @@ G75*
 G01*
 G04 BotPaste*
 %LPD*%
+D33*
+X35827Y55906D3*
+X-35039D3*
+X35827Y22441D3*
+X-35039D3*
 M02*
