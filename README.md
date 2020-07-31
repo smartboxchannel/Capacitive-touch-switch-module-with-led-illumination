@@ -33,6 +33,8 @@ C1 -- 100NF 0603  --  https://ali.ski/i2N5i
 
 C2 -- 0-50PF 0603  --  https://ali.ski/e6CUY7
 
-U1 - TTP223 -- https://ali.ski/QV1hD
+U1 -- TTP223 -- https://ali.ski/QV1hD
+
+LED -- 0603 -- https://ali.ski/8WdcOt
 
 ![Capacitive touch switch module with LED illumination](https://github.com/smartboxchannel/Capacitive-touch-switch-module-with-led-illumination/blob/master/Images/img_20200728_170232-resized.jpg)
