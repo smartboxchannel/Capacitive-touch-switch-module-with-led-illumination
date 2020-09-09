@@ -1,9 +1,9 @@
 # Capacitive touch switch module with LED illumination
 Project of a small module for a touch-sensitive capacitive button running on a ttp223 chip. Two-color LED illumination of states. Configurable by jumpers: high or low trigger level, direct or toggle mode, LED control
 
-#### Donate me :)
+#### Donate me, ..I will make more and faster open devices :)
 
-PayPal: altigraph@yandex.com
+PayPal: altigraph@ya.ru
 
 Yandex Money: 4100140180242
 
